@@ -1,11 +1,3 @@
-# reading-note
-
-# Table Of Content 
-
- - Growth Mindset
- - A bout Me
-
----
 
 ## What Having a ***“Growth Mindset”*** Actually Means?
 I already have it, and I always have. People often confuse a growth mindset with being flexible or open-minded or with having a positive outlook — qualities they believe they’ve simply always had. My colleagues and I call this a false growth mindset. Everyone is actually a mixture of fixed and growth mindsets, and that mixture continually evolves with experience. A **pure** growth mindset doesn’t exist, which we have to acknowledge in order to attain the benefits we seek.
@@ -19,6 +11,4 @@ A growth mindset is just about praising and rewarding effort. This isn’t true 
 
 you can check my portfolio on [Githup](https://github.com/ayazahra)
 
-### A bout Me
-### My name is Aya Zahra, I graduated from the College of Communications and Computer Networks Engineering and I am here to develop myself and learn about programming and its languages. I am also very excited to learn how to develop web pages.
-###### last edited  on 24th of may 2021.
+
