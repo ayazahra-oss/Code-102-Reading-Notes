@@ -81,3 +81,24 @@ body {
 
 </body>
 </html>
+
+## CSS color Property
+
+#### Example
+Set the text-color for different elements:
+
+#### body {
+ #### color: red;
+#### }
+
+#### h1 {
+  #### color: #00ff00;
+#### }
+
+#### p.ex {
+  #### color: rgb(0,0,255);
+#### }
+[css](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS).
+[css](https://www.w3schools.com/cssref/pr_text_color.asp).
+[css](https://www.w3schools.com/css/css_howto.asp).
+[Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/).
